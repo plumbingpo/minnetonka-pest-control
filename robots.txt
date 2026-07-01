@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pestcontrolminnetonka.com/sitemap.xml
